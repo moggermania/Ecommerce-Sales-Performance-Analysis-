@@ -1,0 +1,11 @@
+AI/ML ANALYTICAL INSIGHTS
+Project: E-Commerce Sales Performance Analysis using Data Analytics and AI
+
+1. The highest total-sales product category in the generated dataset is Electronics.
+2. The region with the highest total sales is South.
+3. The strongest sales channel by total sales is Mobile App.
+4. Average order sales are approximately INR 5,090.00.
+5. The observed return rate is approximately 7.53%.
+6. Random Forest is evaluated against Linear Regression using MAE, RMSE and R².
+7. Feature importance is used to identify variables contributing most to the Random Forest predictions.
+8. These insights are analytical findings from a synthetic dataset and should not be treated as real market statistics.
